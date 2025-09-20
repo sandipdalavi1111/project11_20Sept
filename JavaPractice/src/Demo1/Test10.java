@@ -3,7 +3,7 @@ package Demo1;
 public class Test10 {
 
 	public static void main(String[] args) {
-		System.out.println("Hello, World!");
+		System.out.println("Hello, Pune!");
 		printStarPyramid(5);
 	}
 
